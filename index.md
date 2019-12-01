@@ -1,7 +1,7 @@
 ---
 layout: cv
-title: Isabella "Nimo" Ni
-email: xwang247@buffalo.edu
+title: Wode "Nimo" Ni
+email:
   url: mailto:woden@cs.cmu.edu
   text: woden@cs.cmu.edu
 homepage:
@@ -23,13 +23,14 @@ Supported arguments:
 
 ## Education
 
-### **University at Buffalo** `2018.9 -`
+### **Carnegie Mellon University** `2018.9 -`
 
 ```
-Buffalo, NY
+Pittsburgh, PA
 ```
 
-- M.S. in Computer Science
+- Ph.D. in Software Engineering
+- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
 ### **Columbia University** `2016.9 - 2018.5`
 
