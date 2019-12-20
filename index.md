@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Xiaoxiao "Nimo" Wang
 email:
-  url: mailto:woden@cs.cmu.edu
+  url: mailto:xwang247@buffalo.edu
   text: woden@cs.cmu.edu
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+## Xiaoxiao **Wang**
 
 <!--
 include contact information from the front matter
@@ -23,34 +23,54 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **University at Buffalo** `2018.9 -`
 
 ```
-Pittsburgh, PA
+Buffalo, NY
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- M.S. in Computer Science
 
-### **Columbia University** `2016.9 - 2018.5`
+## Software Engineering projects
 
-```
-New York, NY
-```
+### **Map Application with Google Map API /Java** `Summer 2019`
+- Developed a map application similar to Google Map to provide and visualize routes using real- world geographic data.
+- Graph search algorithms including **BFS, Dijkstra's Algorithm, and A*** Search are incorporated.
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+### **Map Overlay for Google Map /Java** `Summer 2019`
+- Developed a powerful interactive map application with Unfolding Maps package to visualize large dataset tagged with geospatial information, which includes real-time data about earthquakes happened around the world and the data of life expectancy from the World Bank.
 
-### **Dickinson College** `2013.9 - 2016.5`
+### **Smart Text Editor /Java** `Summer 2019`
+- Built a smart text editor/processor that incorporates intelligent behaviors of modern-day text
+interfaces including autocomplete, flagging misspelled words and spelling suggestion.
+- Implemented intelligent modules including readability analysis of text, text auto-generation
+and finding word path from one word to another, which are used in NLP.
 
-```
-Carlisle, PA
-```
+### **Dynamo-style Distributed Storage System /Java, Android** `Spring 2019`
+- Developed a group messenger application in Android that simulates client-server communication using the Socket API and enables multicast messages among several AVDs.
+- Designed a simple DHT based on Chord and implemented an Amazon Dynamo-style key-value storage system with the functionalities of partitioning, quorum replication and failure handling.
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+## Blockchain Application project
 
-## Publications
+### **Dapp(Decentralized Application) for voting system** `Autumn 2019`
+
+## DataMining projects
+
+### **Implemented PAC and Apriori and association rule generation algorithms** `Autumn 2019`
+- implement PCA(Principle Components Analysis) algorithm from scratch, project the high-dimensional data to 2 dimensions, and plot the 2-dimensional data points
+- Implemented Apriori and association rule generation algorithms from scratch
+
+### **Clustering algorithms** `Autumn 2019`
+- Implement five clustering algorithms(**K-means, Hierarchical Agglomerative clustering with Min approach, density-based, mixture model, and spectral clustering**) to find clusters of genes that exhibit similar expression profiles
+- Using external index (Rand Index and Jaccard Coefficient) and compare the clustering results from different clustering algorithms.
+- Visualize data sets and clustering results by Principal Component Analysis (PCA).
+
+### **Classification Algorithms** `Autumn 2019`
+- Implement three classification algorithms: **Nearest Neighbor, Decision Tree, and Naïve Bayes**, and implement **Random Forests** based on implementation of Decision Tree.
+- Adopt 10-fold **Cross Validation** to evaluate the performance of all methods on the datasets in terms of **Accuracy, Precision, Recall, and F-1 measure**.
+
+
+<!-- ## Publications
 
 ### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
 
@@ -123,8 +143,12 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 
 ## Service
 
-Research Experiences for Undergraduates in Software Engineering (REUSE) Program Admission Committee `CMU, 2019`
+Research Experiences for Undergraduates in Software Engineering (REUSE) Program Admission Committee `CMU, 2019` -->
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
+## Technical Skills
+- Programming Languages: **Java**, **Python**, **Solidity**(proficient) SQL, Ocaml, C, HTML, MATLAB (intermediate)
+- Frameworks **Android Studio**, **Eclipse**, **Git**, **Ganache** (proficient), TensorFLow (intermediate)
